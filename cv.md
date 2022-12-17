@@ -1,9 +1,9 @@
 # Resume
 ## Lavda Alexander
 
-Telegram: https://t.me/FLoPPy746
+[Telegram](https://t.me/FLoPPy746)
 
-VK: https://vk.com/floppy3
+[VK](https://vk.com/floppy3)
 
 Email: sasha.lavda@yandex.ru
 
@@ -30,3 +30,6 @@ Radiophysicist radio-electronic and information systems and technologies
 **Russian** - native
 
 **Deutsch** - A2 pre intermediate
+
+#
+[Github](https://github.com/Alex7467)
